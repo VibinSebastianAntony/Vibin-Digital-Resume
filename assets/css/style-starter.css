@@ -15496,4 +15496,7 @@ div#small-dialog iframe {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style-starter.css.map */
+.about-profile-img {
+  height: 100%;
+  width: 100%;
+}
